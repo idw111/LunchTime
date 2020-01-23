@@ -1,0 +1,29 @@
+{
+	"name": "LunchTime",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "next build",
+		"dev": "next dev -p 8000",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/idw111/LunchTime.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/idw111/LunchTime/issues"
+	},
+	"homepage": "https://github.com/idw111/LunchTime#readme",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"next": "^9.2.0",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0",
+		"use-google-spreadsheet": "^0.3.1"
+	}
+}
